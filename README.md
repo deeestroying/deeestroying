@@ -15,7 +15,7 @@ A beginner in the world of programming with an Intermediate knowledge in python
 </div>
 # Welcome to my GitHub profile! 🚀
 
-I'm on a perpetual journey of learning and exploration in the world of programming, and I'm excited to share my progress with you here. While I may be considered an intermediate Python enthusiast at the moment, my hunger for knowledge knows no bounds. I believe that every line of code written is an opportunity to grow, refine, and innovate.
+I'm on a perpetual journey of learning and exploration in the world of programming, and I'm excited to share my progress with you here. 
 
 
 
