@@ -1,6 +1,8 @@
 <div align="center">
-![wave](https://github.com/deeestroying/deeestroying/assets/141050877/588096c9-5aef-4cbc-a157-12a77c20c85a)
 
+
+
+![wave](https://github.com/deeestroying/deeestroying/assets/141050877/0e26826f-39c2-4bfd-a313-48312d0b97cc)
 
 
 
