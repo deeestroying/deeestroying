@@ -8,14 +8,19 @@
 
 
 
-###  👋 Hey, I'm DEESTROYINGG
+###  👋 Hey, I'm Arunav 
 A beginner in the world of programming with an Intermediate knowledge in python
 
 <br>
 </div>
 # Welcome to my GitHub profile! 🚀
 
-I'm on a perpetual journey of learning and exploration in the world of programming, and I'm excited to share my progress with you here. 
+## 🔭 Currently Working On  
+- **Fast Food POS System (MERN)**: React front‑end + Node.js/Express + MongoDB, real‑time order tracking & auth  
+- **Inventory Management System**: Node.js/Express + Sequelize/PostgreSQL, EJS templates & Excel migration scripts  
+- **Portfolio Website for Photographer**: (React, HTML, CSS)
+Crafting a responsive portfolio site showcasing photography galleries and contact forms
+Employed React components, CSS flexbox/grid layouts, and form validation for an engaging UX
 
 
 
